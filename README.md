@@ -28,8 +28,8 @@ Click Below to open 1.intro_python.ipynb in google Colab <br>
 </a>
 
 ## Here are youtube links covering 1.intro_python.ipynb 
-links :
-lecture 1 https://youtu.be/17HH_5E9Gyw
-lecture 2 https://youtu.be/gbTMThoWARM
-lecture 3 https://youtu.be/VySebp7nKRk
-lecture 4 https://youtu.be/rXyhk2ff9XI
+links : <br/>
+lecture 1 -> https://youtu.be/17HH_5E9Gyw  <br/>
+lecture 2 -> https://youtu.be/gbTMThoWARM <br/>
+lecture 3 -> https://youtu.be/VySebp7nKRk <br/>
+lecture 4 -> https://youtu.be/rXyhk2ff9XI <br/>
